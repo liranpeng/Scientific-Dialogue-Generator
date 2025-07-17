@@ -2,7 +2,7 @@
 
 # Step 1: Input Scientist Names
 scientist_a = "Peter Blossey"
-scientist_b = "Christopher Bretherton"
+scientist_b = " Michael Pritchard"
 
 # Step 2: Search Papers for Each Scientist
 # We'll use the Semantic Scholar API (https://api.semanticscholar.org/) for this
